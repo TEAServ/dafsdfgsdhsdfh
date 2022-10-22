@@ -1,0 +1,16 @@
+      .disp
+      { padding-left: 30px;
+          display: flex;
+          text-align: left;
+          align-items: center;
+          font-size: 25px;
+          font-weight: 400;
+      }
+      .Bbtn{width: 100px !important; }
+      .toDoElement
+      {
+          border: 2px solid black;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          border-radius: 5px;
+      }   

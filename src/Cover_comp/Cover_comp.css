@@ -1,0 +1,10 @@
+.vidFiller
+{
+
+  /* margin-top: 244px; */
+  margin-top: calc(100vh - 340px);
+}
+.headerGif
+{
+  height: 100%;
+}
